@@ -1,1 +1,3 @@
 # World_Weather_Analysis
+
+This repository contains an update to a beta testing for a PlanMytrip App based on beta tester suggestions.  I added the weather description to the weather data and then the testers could use the input statements to find locations based on weather temperature preferences. After finding locations suitable to the weather preferences, they can filter for potential travel destinations and nearby hotels. To test it myself I chose 4 locations in New Zealand and created a round trip for driving, cycling, and walking.  Finally the popups on the map included the hotel, city, country, current weather and temperature.  I'm ready to go to New Zealand!
